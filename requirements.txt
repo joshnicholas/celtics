@@ -1,0 +1,7 @@
+datetime
+requests
+pytz
+pandas
+lxml
+selenium==4.2.0
+bs4
