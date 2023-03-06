@@ -22,8 +22,8 @@
        - name: 💿 Install Requirements                             
          run: pip install -r requirements.txt
         
-       - name: 🍳 Scrape bom
-         run: python3 box_scraper.py
+       - name: 🍳 Scrape play by play
+         run: python3 play_by_scraper.py
         
        - name: 🚀 Commit and push if it changed
          run: |

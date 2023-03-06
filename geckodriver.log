@@ -107,3 +107,1243 @@ JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/
 JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
 1678099732301	Marionette	INFO	Stopped listening on port 59901
+1678100105604	geckodriver	INFO	Listening on 127.0.0.1:61649
+1678100106122	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileCRYsxD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678100106530	Marionette	INFO	Marionette enabled
+1678100106583	Marionette	INFO	Listening on port 61661
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 61661
+WebDriver BiDi listening on ws://127.0.0.1:61650
+1678100107150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileCRYsxD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61650/devtools/browser/708cf816-30aa-4078-af59-9e7718026a2a
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678100122858	Marionette	INFO	Stopped listening on port 61661
+1678100323596	geckodriver	INFO	Listening on 127.0.0.1:62876
+1678100324117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilePf2aYR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678100324537	Marionette	INFO	Marionette enabled
+1678100324601	Marionette	INFO	Listening on port 62894
+Read port: 62894
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62877
+1678100325193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilePf2aYR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62877/devtools/browser/b0a2a4e9-d2ca-49c5-90bf-aa5942fbfd4b
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678100340497	Marionette	INFO	Stopped listening on port 62894
+1678100876443	geckodriver	INFO	Listening on 127.0.0.1:65376
+1678100876969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilebiMiva"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678100877390	Marionette	INFO	Marionette enabled
+1678100877466	Marionette	INFO	Listening on port 65389
+Read port: 65389
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:65377
+1678100878011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilebiMiva/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65377/devtools/browser/eba0add2-8a48-471a-88fb-66d0c8193130
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678100896203	Marionette	INFO	Stopped listening on port 65389
+1678101051437	geckodriver	INFO	Listening on 127.0.0.1:49916
+1678101051962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilepSi2tq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678101052379	Marionette	INFO	Marionette enabled
+1678101052442	Marionette	INFO	Listening on port 49934
+Read port: 49934
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49917
+1678101052936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilepSi2tq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49917/devtools/browser/51a13fcb-e203-4a1a-82ad-9ccb646234d3
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678101069001	Marionette	INFO	Stopped listening on port 49934
+1678101098468	geckodriver	INFO	Listening on 127.0.0.1:50254
+1678101098991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5SyJqL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678101099423	Marionette	INFO	Marionette enabled
+1678101099573	Marionette	INFO	Listening on port 50271
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50271
+WebDriver BiDi listening on ws://127.0.0.1:50255
+1678101099851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5SyJqL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50255/devtools/browser/83f76810-e756-430f-976a-cc822921c24f
+1678101133224	geckodriver	INFO	Listening on 127.0.0.1:50419
+1678101133747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilepHJCkf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678101134163	Marionette	INFO	Marionette enabled
+1678101134227	Marionette	INFO	Listening on port 50437
+Read port: 50437
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50420
+1678101134734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilepHJCkf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50420/devtools/browser/63b8ab19-0bba-4b56-a08a-1b7ee7c5476e
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678101149178	Marionette	INFO	Stopped listening on port 50437
+1678126214237	geckodriver	INFO	Listening on 127.0.0.1:52258
+1678126214752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiledYfiNK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678126215168	Marionette	INFO	Marionette enabled
+1678126215225	Marionette	INFO	Listening on port 52274
+Read port: 52274
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52259
+1678126215807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiledYfiNK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52259/devtools/browser/903a6745-5bbf-44cb-8a9e-50c2b9bc5c28
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678126232498	Marionette	INFO	Stopped listening on port 52274
+1678126599578	geckodriver	INFO	Listening on 127.0.0.1:53965
+1678126600101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileq8lDA3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678126600510	Marionette	INFO	Marionette enabled
+1678126600572	Marionette	INFO	Listening on port 53977
+Read port: 53977
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53966
+1678126601079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileq8lDA3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53966/devtools/browser/cc0af899-29c9-4529-b30e-44162dd94eab
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678126618511	Marionette	INFO	Stopped listening on port 53977
+1678126626344	geckodriver	INFO	Listening on 127.0.0.1:54188
+1678126626866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIdO4r8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678126627275	Marionette	INFO	Marionette enabled
+1678126627336	Marionette	INFO	Listening on port 54200
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54200
+WebDriver BiDi listening on ws://127.0.0.1:54189
+1678126627818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIdO4r8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54189/devtools/browser/5704c8b5-94d3-438b-b980-eb4923348da4
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678126637437	Marionette	INFO	Stopped listening on port 54200
+1678126645095	geckodriver	INFO	Listening on 127.0.0.1:54375
+1678126645619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileK9vwsX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678126646034	Marionette	INFO	Marionette enabled
+1678126646097	Marionette	INFO	Listening on port 54393
+Read port: 54393
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54376
+1678126646501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileK9vwsX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54376/devtools/browser/b5bb5977-c24e-4927-8c86-cb0d36036d3c
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678126658438	Marionette	INFO	Stopped listening on port 54393
+1678127143512	geckodriver	INFO	Listening on 127.0.0.1:56990
+1678127144033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileCukY0V"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127144485	Marionette	INFO	Marionette enabled
+1678127144546	Marionette	INFO	Listening on port 57008
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57008
+WebDriver BiDi listening on ws://127.0.0.1:56991
+1678127145134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileCukY0V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56991/devtools/browser/91e99da7-0fb5-46ae-88ee-c5e2d9351721
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678127231561	geckodriver	INFO	Listening on 127.0.0.1:57539
+1678127232083	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilevFeBZd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127232495	Marionette	INFO	Marionette enabled
+1678127232557	Marionette	INFO	Listening on port 57551
+Read port: 57551
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57540
+1678127233118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilevFeBZd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57540/devtools/browser/635b1ec1-dd85-463f-a613-2f605a8496b5
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: The promise timed out.
+1678127415152	geckodriver	INFO	Listening on 127.0.0.1:58598
+1678127415677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileY3WR9r"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127416093	Marionette	INFO	Marionette enabled
+1678127416166	Marionette	INFO	Listening on port 58612
+Read port: 58612
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58599
+1678127416819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileY3WR9r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58599/devtools/browser/0bbe0a2d-45a1-4a23-ba5a-ac1324a7b77a
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678127479833	geckodriver	INFO	Listening on 127.0.0.1:59030
+1678127480366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileDHC9A8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127480801	Marionette	INFO	Marionette enabled
+1678127480870	Marionette	INFO	Listening on port 59044
+Read port: 59044
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59031
+1678127481455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileDHC9A8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59031/devtools/browser/7a19bd50-f3bc-4a87-8541-3d14ae1138ed
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678127614490	geckodriver	INFO	Listening on 127.0.0.1:59744
+1678127615016	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileYbaKNQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127615441	Marionette	INFO	Marionette enabled
+1678127615504	Marionette	INFO	Listening on port 59758
+Read port: 59758
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59745
+1678127616086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileYbaKNQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59745/devtools/browser/3f610ee4-d5c7-465a-89cf-0057167735ba
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678127890203	geckodriver	INFO	Listening on 127.0.0.1:61073
+1678127890724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile6IhUHK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127891157	Marionette	INFO	Marionette enabled
+1678127891234	Marionette	INFO	Listening on port 61087
+Read port: 61087
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61074
+1678127891865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile6IhUHK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61074/devtools/browser/81e4ced9-9c21-4e70-be16-89f27d7020d3
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678127914684	geckodriver	INFO	Listening on 127.0.0.1:61293
+1678127915207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile9M79GA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678127915680	Marionette	INFO	Marionette enabled
+1678127915825	Marionette	INFO	Listening on port 61308
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 61308
+WebDriver BiDi listening on ws://127.0.0.1:61294
+1678127916171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile9M79GA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61294/devtools/browser/ec692b9a-4cf7-4ee3-b912-53fb4fa754fb
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678127920888	Marionette	INFO	Stopped listening on port 61308
+1678128008984	geckodriver	INFO	Listening on 127.0.0.1:61795
+1678128009506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileV43UMb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128009946	Marionette	INFO	Marionette enabled
+1678128010021	Marionette	INFO	Listening on port 61809
+Read port: 61809
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61796
+1678128010664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileV43UMb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61796/devtools/browser/ef35c4df-1a70-492d-99e1-afab573171fe
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678128189433	geckodriver	INFO	Listening on 127.0.0.1:62986
+1678128189960	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilevfTE0s"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128190414	Marionette	INFO	Marionette enabled
+1678128190482	Marionette	INFO	Listening on port 63003
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63003
+WebDriver BiDi listening on ws://127.0.0.1:62987
+1678128191128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilevfTE0s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62987/devtools/browser/7d166da9-e002-4ce9-aa5e-d975189afe09
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678128229694	geckodriver	INFO	Listening on 127.0.0.1:63316
+1678128230218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileUPQTma"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128230676	Marionette	INFO	Marionette enabled
+1678128230742	Marionette	INFO	Listening on port 63334
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63334
+WebDriver BiDi listening on ws://127.0.0.1:63317
+1678128231372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileUPQTma/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63317/devtools/browser/9af7db55-12fd-4076-a546-adb20d950619
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678128361539	geckodriver	INFO	Listening on 127.0.0.1:64065
+1678128362066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileBQZv1Y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128362542	Marionette	INFO	Marionette enabled
+1678128362606	Marionette	INFO	Listening on port 64083
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64083
+WebDriver BiDi listening on ws://127.0.0.1:64066
+1678128363276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileBQZv1Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64066/devtools/browser/2ef8398f-298c-4e43-a1d6-73588f3a2e3b
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678128375612	geckodriver	INFO	Listening on 127.0.0.1:64189
+1678128376141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileZJEXjn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128376626	Marionette	INFO	Marionette enabled
+1678128376692	Marionette	INFO	Listening on port 64201
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64201
+WebDriver BiDi listening on ws://127.0.0.1:64190
+1678128377152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileZJEXjn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64190/devtools/browser/3de2afcf-7b89-4b79-803b-cbd38abe55b5
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: The promise timed out.
+1678128613853	geckodriver	INFO	Listening on 127.0.0.1:65374
+1678128614381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilead2b1F"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128614875	Marionette	INFO	Marionette enabled
+1678128614946	Marionette	INFO	Listening on port 65392
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65392
+WebDriver BiDi listening on ws://127.0.0.1:65375
+1678128615439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilead2b1F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65375/devtools/browser/c8b6b9ed-66ca-4f87-bee7-5f143792b77d
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678128826288	geckodriver	INFO	Listening on 127.0.0.1:50239
+1678128826816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50240" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileFmPreZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128827506	Marionette	INFO	Marionette enabled
+1678128827603	Marionette	INFO	Listening on port 50253
+Read port: 50253
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50240
+1678128827953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileFmPreZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50240/devtools/browser/84e6b1a0-5cd2-452a-9847-6f7bc47d2099
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678128837931	Marionette	INFO	Stopped listening on port 50253
+1678128906888	geckodriver	INFO	Listening on 127.0.0.1:50690
+1678128907415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50691" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIBV90Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678128908191	Marionette	INFO	Marionette enabled
+1678128908283	Marionette	INFO	Listening on port 50708
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50708
+WebDriver BiDi listening on ws://127.0.0.1:50691
+1678128908594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIBV90Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50691/devtools/browser/57a6c23f-344b-41d4-a719-0b363c661af5
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678129086767	Marionette	INFO	Stopped listening on port 50708
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678129089534	geckodriver	INFO	Listening on 127.0.0.1:51601
+1678129090064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51602" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile6DhOpU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129090721	Marionette	INFO	Marionette enabled
+1678129090821	Marionette	INFO	Listening on port 51615
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51615
+WebDriver BiDi listening on ws://127.0.0.1:51602
+1678129091349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile6DhOpU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51602/devtools/browser/c391c86a-505a-4eff-b8b9-22cd88605d8d
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 35 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678129117023	Marionette	INFO	Stopped listening on port 51615
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678129178640	geckodriver	INFO	Listening on 127.0.0.1:52284
+1678129179169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiledhWy7M"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129179663	Marionette	INFO	Marionette enabled
+1678129179737	Marionette	INFO	Listening on port 52298
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52298
+WebDriver BiDi listening on ws://127.0.0.1:52285
+1678129180425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiledhWy7M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52285/devtools/browser/d24d3c4c-0329-4dec-ab3c-eb7ed930edc7
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678129285517	geckodriver	INFO	Listening on 127.0.0.1:52903
+1678129286048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileeZVBDs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129286603	Marionette	INFO	Marionette enabled
+1678129286688	Marionette	INFO	Listening on port 52922
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52922
+WebDriver BiDi listening on ws://127.0.0.1:52904
+1678129287397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileeZVBDs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52904/devtools/browser/5c5a99fa-b038-4fd8-94ed-fcb5f3628bff
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678129393492	geckodriver	INFO	Listening on 127.0.0.1:53763
+1678129394017	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53764" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilew8Vdqf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129394845	Marionette	INFO	Marionette enabled
+1678129394966	Marionette	INFO	Listening on port 53780
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53780
+WebDriver BiDi listening on ws://127.0.0.1:53764
+1678129395583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilew8Vdqf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53764/devtools/browser/6582be54-c328-408c-9704-b7db01f476e6
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678129418254	Marionette	INFO	Stopped listening on port 53780
+1678129578905	geckodriver	INFO	Listening on 127.0.0.1:54910
+1678129579437	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54911" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileR2X8We"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129580256	Marionette	INFO	Marionette enabled
+1678129580373	Marionette	INFO	Listening on port 54928
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54928
+WebDriver BiDi listening on ws://127.0.0.1:54911
+1678129581030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileR2X8We/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54911/devtools/browser/b206f816-de82-4073-9b00-42bd485630cd
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4436 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1678129639407	Marionette	INFO	Stopped listening on port 54928
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1678129645012	geckodriver	INFO	Listening on 127.0.0.1:55425
+1678129645532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile3ACGHN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129646092	Marionette	INFO	Marionette enabled
+1678129646181	Marionette	INFO	Listening on port 55442
+Read port: 55442
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55426
+1678129647057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile3ACGHN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55426/devtools/browser/4ba45529-14a7-48e9-abf1-c5164a2b4857
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1782 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678129670284	geckodriver	INFO	Listening on 127.0.0.1:55808
+1678129670798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55809" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileEkivAx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129671715	Marionette	INFO	Marionette enabled
+1678129671838	Marionette	INFO	Listening on port 55822
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55822
+WebDriver BiDi listening on ws://127.0.0.1:55809
+1678129672440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileEkivAx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55809/devtools/browser/7ab2f0cf-52fb-4034-82cf-8ca6664146d1
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5967 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7132 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7564 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.warn: "Listener for event 'frame' did not return a promise."
+1678129756284	geckodriver	INFO	Listening on 127.0.0.1:56515
+1678129756812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56516" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileJyGLyL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129757730	Marionette	INFO	Marionette enabled
+1678129757851	Marionette	INFO	Listening on port 56531
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56531
+WebDriver BiDi listening on ws://127.0.0.1:56516
+1678129758474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileJyGLyL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56516/devtools/browser/58003e93-d099-4769-a9ca-9a03c02749e8
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7672 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7056 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1356 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5152 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1678129800285	geckodriver	INFO	Listening on 127.0.0.1:56979
+1678129800814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56980" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5FE87e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129801731	Marionette	INFO	Marionette enabled
+1678129801879	Marionette	INFO	Listening on port 56995
+Read port: 56995
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56980
+1678129802557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5FE87e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56980/devtools/browser/16dc6389-0f71-4567-add6-be0fa47aab0a
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2695 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7325 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6796 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678129861051	Marionette	INFO	Stopped listening on port 56995
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1678129862713	Marionette	INFO	Stopped listening on port 56531
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678129865130	Marionette	INFO	Stopped listening on port 55822
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678129875231	geckodriver	INFO	Listening on 127.0.0.1:57603
+1678129875754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileqsr65O"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129876460	Marionette	INFO	Marionette enabled
+1678129876556	Marionette	INFO	Listening on port 57619
+Read port: 57619
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57604
+1678129877562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileqsr65O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57604/devtools/browser/bfce41dc-f8a7-4890-8a2d-2fc5d4ae2120
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5991 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6550 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5524 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1678129958026	geckodriver	INFO	Listening on 127.0.0.1:58350
+1678129958558	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiletNkb3c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678129959104	Marionette	INFO	Marionette enabled
+1678129959192	Marionette	INFO	Listening on port 58362
+Read port: 58362
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58351
+1678129960050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiletNkb3c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58351/devtools/browser/5aaa60b7-08d6-4ecd-8439-3022da506b51
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2838 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5841 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5209 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678130008122	geckodriver	INFO	Listening on 127.0.0.1:58856
+1678130008656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilenfolry"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678130009254	Marionette	INFO	Marionette enabled
+1678130009341	Marionette	INFO	Listening on port 58871
+Read port: 58871
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58857
+1678130010172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilenfolry/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58857/devtools/browser/9ee4c0e5-5e46-4956-a023-a689b0754825
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678130037113	geckodriver	INFO	Listening on 127.0.0.1:59092
+1678130037646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileXDq3bQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678130038219	Marionette	INFO	Marionette enabled
+1678130038295	Marionette	INFO	Listening on port 59109
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59109
+WebDriver BiDi listening on ws://127.0.0.1:59093
+1678130039071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileXDq3bQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59093/devtools/browser/a73bc6d8-c4da-41e1-a02a-64bc2b42294d
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5458 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 991 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678130098599	geckodriver	INFO	Listening on 127.0.0.1:59633
+1678130099133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileO9ayg5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678130099779	Marionette	INFO	Marionette enabled
+1678130099896	Marionette	INFO	Listening on port 59649
+Read port: 59649
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59634
+1678130100911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileO9ayg5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59634/devtools/browser/9aff58b2-f894-4296-9270-16013b68db00
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5835 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2221 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1678130125236	geckodriver	INFO	Listening on 127.0.0.1:60017
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678130125769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60018" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileVxWQU2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678130126685	Marionette	INFO	Marionette enabled
+1678130126808	Marionette	INFO	Listening on port 60035
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60035
+WebDriver BiDi listening on ws://127.0.0.1:60018
+1678130127440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileVxWQU2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60018/devtools/browser/453e22d9-1b31-46e8-89f6-d336a633debc
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7652 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1006 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1678130232697	geckodriver	INFO	Listening on 127.0.0.1:60774
+1678130233233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60775" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileqOmorF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678130234026	Marionette	INFO	Marionette enabled
+1678130234136	Marionette	INFO	Listening on port 60792
+Read port: 60792
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60775
+1678130234585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileqOmorF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60775/devtools/browser/4f036ff1-9a16-4ac8-abb3-69852b4a8354
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7081 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7648 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1678130440245	geckodriver	INFO	Listening on 127.0.0.1:62132
+1678130440783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62133" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiletyQRJS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678130441661	Marionette	INFO	Marionette enabled
+1678130441782	Marionette	INFO	Listening on port 62150
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62150
+WebDriver BiDi listening on ws://127.0.0.1:62133
+1678130442520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofiletyQRJS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62133/devtools/browser/6bcd92fa-0ca5-4580-b95e-8b9dff50e006
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678130467734	Marionette	INFO	Stopped listening on port 62150
+1678131577416	geckodriver	INFO	Listening on 127.0.0.1:50633
+1678131577952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50634" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIhmHBj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678131578960	Marionette	INFO	Marionette enabled
+1678131579088	Marionette	INFO	Listening on port 50649
+Read port: 50649
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50634
+1678131579713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIhmHBj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50634/devtools/browser/94fb258b-3d57-48e5-b0ed-7bdc9fbc1ff1
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678131610033	Marionette	INFO	Stopped listening on port 50649
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+1678131708720	Marionette	INFO	Stopped listening on port 60792
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678131713982	geckodriver	INFO	Listening on 127.0.0.1:51363
+1678131714535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51364" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilev1VfVG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678131715569	Marionette	INFO	Marionette enabled
+1678131715703	Marionette	INFO	Listening on port 51381
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51381
+WebDriver BiDi listening on ws://127.0.0.1:51364
+1678131716376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilev1VfVG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51364/devtools/browser/742bdedd-d252-4b93-a4e8-5375c0b2af55
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678131744389	Marionette	INFO	Stopped listening on port 51381
+1678131873150	geckodriver	INFO	Listening on 127.0.0.1:52311
+1678131873686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52312" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileYck7Da"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678131874509	Marionette	INFO	Marionette enabled
+1678131874634	Marionette	INFO	Listening on port 52329
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52329
+WebDriver BiDi listening on ws://127.0.0.1:52312
+1678131875420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileYck7Da/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52312/devtools/browser/66e2229b-5d1c-4384-a43b-e76fedc6b75e
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: uncaught exception: The promise timed out.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678131892394	Marionette	INFO	Stopped listening on port 52329
+1678131978488	geckodriver	INFO	Listening on 127.0.0.1:52902
+1678131979025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52903" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileMUyb3a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678131979822	Marionette	INFO	Marionette enabled
+1678131979935	Marionette	INFO	Listening on port 52920
+Read port: 52920
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52903
+1678131980678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileMUyb3a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52903/devtools/browser/48b576b2-a7db-47c0-aa26-3c4eaa6f324f
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678132009989	Marionette	INFO	Stopped listening on port 52920
+1678138329210	geckodriver	INFO	Listening on 127.0.0.1:55496
+1678138329726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55497" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileiRz8Yy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678138330611	Marionette	INFO	Marionette enabled
+1678138330776	Marionette	INFO	Listening on port 55513
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55513
+WebDriver BiDi listening on ws://127.0.0.1:55497
+1678138331374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileiRz8Yy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55497/devtools/browser/c0a42625-4b0e-4197-9592-518570dd632a
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/iXwyg/5/0j/2c4e/LcuP0EC9/1cuQ2DaawEz3f5/T2MwUgIy/Nw/E8AChhQ1A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.21.min.js, line 1: TypeError: e.getVersion is not a function
+1678138359971	Marionette	INFO	Stopped listening on port 55513
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 2014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
