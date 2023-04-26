@@ -52,6 +52,14 @@ def check_if_done(pathos, to_check):
     else:
         return True
 
+def already_done(pathos):
+    if pathos[-1] != '/':
+        pathos += '/'
+
+    folds = os.listdir(pathos)
+    fillos = [x.replace('.csv', '') for x in folds if ".csv" in x]
+    return fillos
+
 # %%
 
 today = datetime.datetime.now()
@@ -130,30 +138,33 @@ soup = bs(driver.page_source, 'html.parser')
 codes = soup.find_all('a')
 codes = [x['href'].replace('/game/', '') for x in codes if '/game/' in x['href']]
 
-# print(len(files))
-print(len(codes))
 
 driver.quit()
 
 # # # %%
 
+donners = already_done(f'data/play_by_play_raw/{yearo}')
+
+codes = [x for x in codes if x not in donners]
+
+print(len(codes))
+
 for game in codes:
-    if not check_if_done(f'data/play_by_play_raw/{yearo}', game):
-        r = requests.get(f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game}.json')
+    r = requests.get(f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game}.json')
 
 
-        jsony = json.loads(r.text)
+    jsony = json.loads(r.text)
 
-        actions = jsony['game']['actions']
+    actions = jsony['game']['actions']
 
-        df = pd.DataFrame.from_records(jsony['game']['actions'])
+    df = pd.DataFrame.from_records(jsony['game']['actions'])
 
-        dumper(f'data/play_by_play_raw/{yearo}', game, df)
-        dumper(f'output', 'latest_play_by_play', df)
-        # print(df)
-        # print(df.columns.tolist())
+    dumper(f'data/play_by_play_raw/{yearo}', game, df)
+    dumper(f'output', 'latest_play_by_play', df)
+    # print(df)
+    # print(df.columns.tolist())
 
-        rand_delay(2)
+    rand_delay(2)
 
 
 # # %%
