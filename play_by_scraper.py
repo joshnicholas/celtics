@@ -15,6 +15,20 @@ import pathlib
 pathos = pathlib.Path(__file__).parent
 os.chdir(pathos)
 
+
+# %%
+
+from selenium import webdriver 
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+
+chrome_options = Options()
+# chrome_options.add_argument("--headless")
+driver = webdriver.Firefox(options=chrome_options)
+
 # %%
 
 ##
@@ -97,74 +111,72 @@ else:
     print("Playoffs!")
     urlo = f'https://www.nba.com/stats/team/1610612738/boxscores?SeasonType=Playoffs&Season={yearo}'
 
-# %%
-
-from selenium import webdriver 
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-driver = webdriver.Firefox(options=chrome_options)
 
 driver.get(urlo)
 
 # time.sleep(5)
 
+# %%
+
 try:
     WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID,"onetrust-accept-btn-handler")))
     button = driver.find_element(By.ID,"onetrust-accept-btn-handler").click()
 except Exception as e:
+    print("Exception")
     print(e)
     # continue
 
-# WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div[2]/div[2]/main/div[3]/section[3]/div/div[2]/div[2]/div[1]/div[3]/div/label/div/select")))
-WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.XPATH, "/html/body/div[1]/div[2]/div[2]/main/div[3]/section[3]/div/div[2]/div[2]/div[1]/div[3]/div/label/div/select")))
-WebDriverWait(driver, 50).until(EC.invisibility_of_element((By.CLASS_NAME, "ot-sdk-row")))
+# # # WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div[2]/div[2]/main/div[3]/section[3]/div/div[2]/div[2]/div[1]/div[3]/div/label/div/select")))
+# # WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.XPATH, "/html/body/div[1]/div[2]/div[2]/main/div[3]/section[3]/div/div[2]/div[2]/div[1]/div[3]/div/label/div/select")))
+# # WebDriverWait(driver, 50).until(EC.invisibility_of_element((By.CLASS_NAME, "ot-sdk-row")))
 
-droppy = Select(driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div[2]/main/div[3]/section[3]/div/div[2]/div[2]/div[1]/div[3]/div/label/div/select"))
-# droppy = Select(driver.find_elements(By.CLASS_NAME, "DropDown_select__4pIg9")[2])
+# # droppy = Select(driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div[2]/main/div[3]/section[3]/div/div[2]/div[2]/div[1]/div[3]/div/label/div/select"))
+# # # droppy = Select(driver.find_elements(By.CLASS_NAME, "DropDown_select__4pIg9")[2])
 
-droppy.select_by_visible_text("All")
+# # droppy.select_by_visible_text("All")
 
-WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.CLASS_NAME, "Crom_table__p1iZz")))
-time.sleep(2)
+# print("Waiting")
+# WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.CLASS_NAME, "Crom_table__p1iZz")))
+# time.sleep(2)
 
-soup = bs(driver.page_source, 'html.parser')
+# soup = bs(driver.page_source, 'html.parser')
 
-codes = soup.find_all('a')
-codes = [x['href'].replace('/game/', '') for x in codes if '/game/' in x['href']]
+# codes = soup.find_all('a')
+# codes = [x['href'].replace('/game/', '') for x in codes if '/game/' in x['href']]
+
+# print("Codes: ", codes)
+
+# driver.quit()
+
+# # # # %%
+
+# donners = already_done(f'data/play_by_play_raw/{yearo}')
+
+# codes = [x for x in codes if x not in donners]
+
+# print(len(codes))
+
+# for game in codes:
+#     try:
+#         r = requests.get(f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game}.json')
+#         # r = requests.get(f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game}.json')
+        
+#         print(r.url)
+
+#         jsony = json.loads(r.text)
+
+#         actions = jsony['game']['actions']
+
+#         df = pd.DataFrame.from_records(jsony['game']['actions'])
+
+#         dumper(f'data/play_by_play_raw/{yearo}', game, df)
+#         dumper(f'output', 'latest_play_by_play', df)
+#         # print(df)
+#         # print(df.columns.tolist())
+#     except Exception as e:
+#         print(e)
+
+#     rand_delay(2)
 
 
 driver.quit()
-
-# # # %%
-
-donners = already_done(f'data/play_by_play_raw/{yearo}')
-
-codes = [x for x in codes if x not in donners]
-
-print(len(codes))
-
-for game in codes:
-    r = requests.get(f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game}.json')
-
-
-    jsony = json.loads(r.text)
-
-    actions = jsony['game']['actions']
-
-    df = pd.DataFrame.from_records(jsony['game']['actions'])
-
-    dumper(f'data/play_by_play_raw/{yearo}', game, df)
-    dumper(f'output', 'latest_play_by_play', df)
-    # print(df)
-    # print(df.columns.tolist())
-
-    rand_delay(2)
-
-
-# # %%
