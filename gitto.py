@@ -36,7 +36,6 @@ def send_nba_to_git(stemmo, repo, what, yearsy, frame):
         print("fillos: ", fillos)
         return fillos
 
-
     # latest_donners = check_do(f'Archive/{what}')
     donners = check_do(f'Archive/{what}/{yearsy}')
 
@@ -81,13 +80,14 @@ for folder in folds:
 
         datter = dateparser.parse(inter.iloc[0]['timeActual']).strftime("%Y_%m_%d")
 
-        print(datter)
-        print(teams)
+        # print(datter)
+        # print(teams)
 
-        print(inter)
-        print(inter.columns.tolist())
+        # print(inter)
+        # print(inter.columns.tolist())
 
         stammo = f"{datter}_{teams}"
+        print(stammo)
 
         send_nba_to_git(stammo, 'Archives', 'celtics',folder, inter)
 
