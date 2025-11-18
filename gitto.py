@@ -45,6 +45,10 @@ def send_nba_to_git(stemmo, repo, what, yearsy, frame):
     if f"{stemmo}.json" not in donners:
 
         repository.create_file(filename, f"new_scraped_file_{stemmo}", content)
+
+    else:
+        oldy = repository.get_contents(filename)
+        repository.update_file(filename, f"updated_scraped_file_{stemmo}", content, oldy.sha)
     
 
 # %%
@@ -62,6 +66,8 @@ for folder in folds:
     for fillo in fillos:
         fillos = [x for x in fillos if '.csv' in x]
         inter = pd.read_csv(f"{fold_path}/{folder}/{fillo}")
+        inter.fillna('', inplace=True)
+
         # ['actionNumber', 'clock', 'timeActual', 'period', 'periodType', 'actionType', 
         # 'subType', 'qualifiers', 'personId', 'x', 'y', 'possession', 'scoreHome', 
         # 'scoreAway', 'edited', 'orderNumber', 'side', 'description', 'personIdsFilter', 
@@ -86,10 +92,15 @@ for folder in folds:
         # print(inter)
         # print(inter.columns.tolist())
 
-        stammo = f"{datter}_{teams}"
+        stammo = f"{datter}{teams}"
         print(stammo)
 
         send_nba_to_git(stammo, 'Archives', 'celtics',folder, inter)
 
+        # jsony = inter.to_dict(orient='records')
+        # content = json.dumps(jsony)
 
-# %%
+        # filename = f'/Users/josh/Github/Archives/Archive/celtics/{folder}/{stammo}.json'
+
+        # with open(filename, 'w') as f:
+        #     f.write(content)
